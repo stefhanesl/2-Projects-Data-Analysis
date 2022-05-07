@@ -1,46 +1,32 @@
 
-# Nombre del Proyecto
-Este proyecto es parte de 
+# Gestión de Ventas, Análisis de datos
 
-#### -- Project Status: [Active, On-Hold, Completed]
+Este proyecto es parte de las base de datos de SQL server llamada "ADVENTUREWORK", fueron tomados con el proposito de aplicar practicas de ETL(Extracción, Transformacón y Carga) con SQL, ademas de establecer un analisis por medio de la utilización de un panel de POWER BI.
 
-## Project Intro/Objective
-The purpose of this project is ________. (Describe the main goals of the project and potential civic impact. Limit to a short paragraph, 3-6 Sentences)
 
-### Partner
-* [Name of Partner organization/Government department etc..]
-* Website for partner
-* Partner contact: [Name of Contact], [slack handle of contact if any]
-* If you do not have a partner leave this section out
+## Objetivos del proyecto
+•	Realizar un panel de Power BI que actualice los datos, permitiendo filtrar datos para cada cliente y producto.
+•	Graficar y establecer KPI que compará las ventas en relación al presupuesto con POWER BI.
 
-### Methods Used
-* Inferential Statistics
-* Machine Learning
+
+### Métodos usados
+* Estadistica Descriptiva
 * Data Visualization
-* Predictive Modeling
-* etc.
 
-### Technologies
-* R 
-* Python
-* D3
-* PostGres, MySql
-* Pandas, jupyter
-* HTML
-* JavaScript
-* etc. 
 
-## Project Description
-(Provide more detailed overview of the project.  Talk a bit about your data sources and what questions and hypothesis you are exploring. What specific data analysis/visualization and modelling work are you using to solve the problem? What blockers and challenges are you facing?  Feel free to number or bullet point things here)
+### Tecnologías
+* SQL
+* POWER BI
 
-## Needs of this project
 
-- frontend developers
+## Descripción
+
+
+## Necesidades del Proyecto
 - data exploration/descriptive statistics
 - data processing/cleaning
-- statistical modeling
-- writeup/reporting
-- etc. (be as specific as possible)
+
+
 
 ## Getting Started
 
