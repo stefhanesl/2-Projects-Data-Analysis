@@ -9,19 +9,26 @@ Este proyecto es parte de las base de datos de SQL server llamada "ADVENTUREWORK
 •	Graficar y establecer KPI que compará las ventas en relación al presupuesto con POWER BI.
 
 
-### Métodos usados
-* Estadistica Descriptiva
-* Data Analysis
+
+# Metodos Usados
+Data Visualization,
+Estadística Descriptiva,
 
 
-### Tecnologías
-* Python/Pandas
-* Python/Numpy
+# Tecnologías
+Python/Pandas,
+Python/Numpy,
+SQL
+
+# Programas
+Colab Notebook,
 
 
-## Necesidades del Proyecto
-- data exploration/descriptive statistics
-- data processing/cleaning
+# Necesidades del proyecto
+data exploration/descriptive statistics,
+data processing/cleaning,
+statistical modeling,
+
 
 
 
