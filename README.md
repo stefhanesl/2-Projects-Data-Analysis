@@ -3,7 +3,9 @@ Este portafolio contiene un conjunto de proyectos, los cuales se analizaron con 
 
 # Metodos Usados
 Data Visualization,
-Estadística
+Estadística Descriptiva,
+Propensity score matching,
+Estadistica inferencial
 
 # Tecnologías
 Python/Pandas,
