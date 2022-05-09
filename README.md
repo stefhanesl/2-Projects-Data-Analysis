@@ -2,20 +2,20 @@ Descripción de Portafolio
 Este portafolio contiene un conjunto de proyectos, los cuales se analizaron con programas de ciencia de datos
 
 # Metodos Usados
-Data Visualization
+Data Visualization,
 Estadística
 
 # Tecnologías
-Python/Pandas
-Python/Numpy
+Python/Pandas,
+Python/Numpy,
 SQL
 
 # Programas
-Colab Notebook
+Colab Notebook,
 STATA
 
 # Necesidades del proyecto
-data exploration/descriptive statistics
-data processing/cleaning
-statistical modeling
+data exploration/descriptive statistics,
+data processing/cleaning,
+statistical modeling,
 análisis econometrico
